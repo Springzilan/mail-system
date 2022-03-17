@@ -2,6 +2,7 @@
   "name": "mail-system",
   "version": "0.1.0",
   "private": true,
+  "author": "lan <springzilan@gmail.com>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
